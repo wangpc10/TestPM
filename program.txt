@@ -1,7 +1,8 @@
 #include<iostream>
 using namespace std;
 
-void ShowNum();
+void PrintNum();
+void ShowString();
 
 int main()
 {
@@ -10,5 +11,10 @@ int main()
 
 void PrintNum()
 {
-	std::cout << "Hello.\n"; 
+	std::cout << "400.\n"; 
+}
+
+void ShowString()
+{
+	std::cout << "Hello.\n";
 }
