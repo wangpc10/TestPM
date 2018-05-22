@@ -4,6 +4,8 @@ using namespace std;
 void PrintNum();
 void ShowString();
 
+
+
 int main()
 {
    return 1;
